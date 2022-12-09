@@ -10,6 +10,7 @@ namespace WEB_THOITRANG.Controllers
     public class AdminController : Controller
     {
         // GET: Admin
+        //teast git
         MyDataDataContext db = new MyDataDataContext();
         public ActionResult LayoutAdmin()
         {
